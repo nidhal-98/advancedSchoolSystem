@@ -389,7 +389,8 @@ public class Main {
 						}
 					}
 				}
-			}     
+			}   
+			/////////////////
 			// Search student 
 			else if (select.equals("6")) {
 				searchCount = searchCount + 1;
