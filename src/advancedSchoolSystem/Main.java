@@ -389,9 +389,8 @@ public class Main {
 						}
 					}
 				}
-			}
-////     
-			// Search student
+			}     
+			// Search student 
 			else if (select.equals("6")) {
 				searchCount = searchCount + 1;
 				int sum = 0;
